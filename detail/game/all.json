@@ -7,11 +7,11 @@
         "img": "slope"
     },
     {
-        "slug": "game-bk2",
-        "title": "Run Rush",
+        "slug": "tunnel-rush",
+        "title": "Tunnel Rush",
         "cat": "Skill",
         "domain": 1,
-        "img": "game-bk2"
+        "img": "tunnel-rush"
     },
     {
         "slug": "iron-snout",
@@ -213,11 +213,11 @@
         "img": "doodle-jump"
     },
     {
-        "slug": "game-bk3",
-        "title": "Run Rush 2",
+        "slug": "tunnel-rush-2",
+        "title": "Tunnel Rush 2",
         "cat": "Skill, Running",
         "domain": 1,
-        "img": "game-bk3"
+        "img": "tunnel-rush-2"
     },
     {
         "slug": "ducklife-4",
@@ -467,14 +467,14 @@
         "domain": 4
     },
     {
-        "slug": "game-bk4",
-        "title": "Gun Duck 1",
+        "slug": "raft-wars",
+        "title": "Raft Wars 1",
         "cat": "Shooting",
         "domain": 1
     },
     {
-        "slug": "game-bk5",
-        "title": "Gun Duck 2",
+        "slug": "raft-wars-2",
+        "title": "Raft Wars 2",
         "cat": "Shooting",
         "domain": 1
     },
